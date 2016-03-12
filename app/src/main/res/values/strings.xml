@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sukesh Weather App</string>
+    <string name="Sunny">Sunny</string>
+    <string name="Foggy">Foggy</string>
+    <string name="Condition"> Realtime Condition</string>
+
+</resources>
